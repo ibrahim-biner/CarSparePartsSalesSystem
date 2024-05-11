@@ -1,0 +1,5 @@
+alperen,Sifre19*,3,Alperen,alperen@hotmail,253-045-8789
+mehmet,Sifre19*,2,Mehmet,mehmet@hotmail,253-045-8789
+murat,Sifre19*,2,Murat,murat@hotmail,253-045-8789
+ibrahim,Sifre19*,1,İbrahim,ibrahim@hotmail,253-045-8789
+musatfa,Sifre19*,1,Musatfa,musatfa@hotmail,253-045-8789
