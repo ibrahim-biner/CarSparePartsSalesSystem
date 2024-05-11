@@ -1,6 +1,6 @@
 # Car Spare Parts Sales System In C#
 
-The application is a simple console application written in C# that can sell car spare parts.
+The application is a simple console application written in C# that can sell car spare parts.You can find all the details at [Documant(Details)](https://github.com/ibrahim-biner/CarSparePartsSalesSystem/blob/main/Doucment(Descriptions).docx)
 
 ## Application Description : 
 There are 3 main types of users in the application.1 admin, 2 seller and 2 customer accounts are automatically defined in the system.(Accessible from the kullanicilar.txt file)<br><br>
@@ -41,3 +41,17 @@ There are 3 main types of users in the application.1 admin, 2 seller and 2 custo
 - Must not contain any letters
 <br><br><br>
 ### Sample screenshots from the application : <br><br>
+![](https://github.com/ibrahim-biner/CarSparePartsSalesSystem/blob/main/Screenshots%20from%20aplication/111.png)<br>
+![](https://github.com/ibrahim-biner/CarSparePartsSalesSystem/blob/main/Screenshots%20from%20aplication/ba%C5%9Far%C4%B1l%C4%B1.png)<br>
+![](https://github.com/ibrahim-biner/CarSparePartsSalesSystem/blob/main/Screenshots%20from%20aplication/kay%C4%B1t2.png)<br>
+![](https://github.com/ibrahim-biner/CarSparePartsSalesSystem/blob/main/Screenshots%20from%20aplication/musterisil.png)<br>
+![](https://github.com/ibrahim-biner/CarSparePartsSalesSystem/blob/main/Screenshots%20from%20aplication/talep2.png)<br>
+![](https://github.com/ibrahim-biner/CarSparePartsSalesSystem/blob/main/Screenshots%20from%20aplication/1.png)<br>
+![](https://github.com/ibrahim-biner/CarSparePartsSalesSystem/blob/main/Screenshots%20from%20aplication/4.png)<br>
+![](https://github.com/ibrahim-biner/CarSparePartsSalesSystem/blob/main/Screenshots%20from%20aplication/6.png)<br>
+![](https://github.com/ibrahim-biner/CarSparePartsSalesSystem/blob/main/Screenshots%20from%20aplication/7.png)<br>
+![](https://github.com/ibrahim-biner/CarSparePartsSalesSystem/blob/main/Screenshots%20from%20aplication/9.png)<br>
+![](https://github.com/ibrahim-biner/CarSparePartsSalesSystem/blob/main/Screenshots%20from%20aplication/14.png)<br>
+![](https://github.com/ibrahim-biner/CarSparePartsSalesSystem/blob/main/Screenshots%20from%20aplication/arac2.png)<br>
+![](https://github.com/ibrahim-biner/CarSparePartsSalesSystem/blob/main/Screenshots%20from%20aplication/gun7.png)<br>
+![](https://github.com/ibrahim-biner/CarSparePartsSalesSystem/blob/main/Screenshots%20from%20aplication/uyar%C4%B1.png)<br>
